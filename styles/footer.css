@@ -1,0 +1,49 @@
+footer{
+    background-color: #eeeeee;
+    display: flex;
+    justify-content: space-around;
+}
+
+.info{
+    margin-bottom: 50px;
+}
+
+.info img{
+    height: 300px;
+    margin-bottom: -100px;
+}
+
+.info h2{
+    color: #000;
+    font-size: 30px;
+    font-weight: 400;
+}
+
+.redesSociais{
+    margin-top: 200px;
+    font-size: 20px;
+    color: #000;
+}
+
+.redesSociais a{
+    color: #000;
+}
+
+.redesSociais span{
+    font-weight: 600;
+}
+
+.redesSociais i{
+    margin: 10px;
+    cursor: pointer;
+}
+
+.ilustracaoFooter{
+    display: flex;
+    align-items: center;
+
+}
+
+.ilustracaoFooter img{
+    height: 400px;
+}

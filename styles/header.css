@@ -24,17 +24,28 @@
 .titulo-header h1{
     font-size: 40px;
     font-weight: 900;
+    z-index: 2;
 }
 
 .titulo-header h2{
     font-weight: 300;
     font-size: 35px;
     margin-bottom: 10px;
+    z-index: 2;
 }
 
 .titulo-header a{
     background-color: #000;
     color: #FFF;
     padding: 10px 50px 10px 50px;
+    z-index: 2;
 }
 
+.titulo-header img{
+    max-width: 500px;
+    z-index: 1;
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+}
