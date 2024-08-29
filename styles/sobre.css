@@ -1,0 +1,28 @@
+.sobre{
+    height: 700px;
+    display: flex;
+    justify-content: space-between;
+    background-color: #000;
+}
+
+.texto{
+    margin: 50px 20px;
+}
+
+.texto h2{
+    margin-bottom: 30px;
+    font-size: 64px;
+    font-weight: 600;
+    color: #ff9200;
+}
+
+.texto p{
+    color: #fff;
+    margin: 30px 0px;
+}
+
+.funcionarioImagem{
+    margin: 40px;
+    height: 80%;
+    width: 80%;
+}
