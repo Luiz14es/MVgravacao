@@ -5,23 +5,23 @@ footer{
 }
 
 .info{
-    margin-bottom: 50px;
+    margin-bottom: 3.125rem;
 }
 
 .info img{
-    height: 300px;
-    margin-bottom: -100px;
+    height: 18.75rem;
+    margin-bottom: -6.25rem;
 }
 
 .info h2{
     color: #000;
-    font-size: 30px;
+    font-size: 1.875rem;
     font-weight: 400;
 }
 
 .redesSociais{
-    margin-top: 200px;
-    font-size: 20px;
+    margin-top: 12.5rem;
+    font-size: 1.25rem;
     color: #000;
 }
 
@@ -34,7 +34,7 @@ footer{
 }
 
 .redesSociais i{
-    margin: 10px;
+    margin: 0.625rem;
     cursor: pointer;
 }
 
@@ -45,5 +45,5 @@ footer{
 }
 
 .ilustracaoFooter img{
-    height: 400px;
+    height: 25rem;
 }

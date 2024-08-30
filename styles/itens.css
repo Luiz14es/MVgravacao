@@ -2,27 +2,27 @@
     height: 100vh;    
     display: flex;
     align-items: center;
-    margin: 30px;
+    margin: 1.875rem;
 }
 
 .card{
-    margin: 40px;
+    margin: 2.5rem;
     display: flex;
     flex-direction: column;
     align-items: center;
 }
 
 .card h3{
-    margin-bottom: 25px;
+    margin-bottom: 1.5625rem;
     color: #000;
-    font-size: 24px;
+    font-size: 1.5rem;
     font-weight: 700;
 }
 
 .card p{
-    margin: 30px;
+    margin: 1.875rem;
     background: linear-gradient(135deg, #ff9200, #f878cd);
-    border-radius: 40px;
-    padding: 15px;
+    border-radius: 2.5rem;
+    padding: 1rem;
     color: #000;
 }

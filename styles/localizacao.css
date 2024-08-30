@@ -2,12 +2,12 @@
     display: flex;
     flex-direction: column;
     align-items: center;
-    height: 600px;
+    height: 37.5rem;
 }
 
 .localizacao h3{
     color: #000;
-    margin: 10px;
+    margin: 0.625rem;
     font-weight: 600;
-    font-size: 50px;
+    font-size: 3.125rem;
 }

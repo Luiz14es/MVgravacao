@@ -1,15 +1,15 @@
 .header{
     background-color: #efefef;
-    height: 700px;
+    height: 43.75rem;
 }
 
 .logo{
-    height: 160px;
-    width: 160px;
+    height: 10rem;
+    width: 10rem;
     position: absolute;
     top: 0;
     left: 0;
-    margin-right: 10px;
+    margin-right: 0.625rem;
 }
 
 .titulo-header{
@@ -22,27 +22,27 @@
 }
 
 .titulo-header h1{
-    font-size: 40px;
+    font-size: 2.5rem;
     font-weight: 900;
     z-index: 2;
 }
 
 .titulo-header h2{
     font-weight: 300;
-    font-size: 35px;
-    margin-bottom: 10px;
+    font-size: 2.1875rem;
+    margin-bottom: 0.625rem;
     z-index: 2;
 }
 
 .titulo-header a{
     background-color: #000;
     color: #FFF;
-    padding: 10px 50px 10px 50px;
+    padding: 0.625rem 3.125rem 0.625rem 3.125rem;
     z-index: 2;
 }
 
 .titulo-header img{
-    max-width: 500px;
+    max-width: 31.25rem;
     z-index: 1;
     position: absolute;
     top: 50%;

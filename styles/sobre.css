@@ -1,28 +1,28 @@
 .sobre{
-    height: 700px;
+    height: 43.75rem;
     display: flex;
     justify-content: space-between;
     background-color: #000;
 }
 
 .texto{
-    margin: 50px 20px;
+    margin: 3.125rem 1.25rem;
 }
 
 .texto h2{
-    margin-bottom: 30px;
-    font-size: 64px;
+    margin-bottom: 1.875rem;
+    font-size: 4rem;
     font-weight: 600;
     color: #ff9200;
 }
 
 .texto p{
     color: #fff;
-    margin: 30px 0px;
+    margin: 1.875rem 0px;
 }
 
 .funcionarioImagem{
-    margin: 40px;
+    margin: 2.5rem;
     height: 80%;
     width: 80%;
 }
